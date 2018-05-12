@@ -1,0 +1,33 @@
+_repo: Voyages-en-France-pendant-les-ann-es-1787-1788-1789_15556
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Arthur
+    alias: Young, Artur
+    birthdate: 1741
+    deathdate: 1820
+    gutenberg_agent_id: '6120'
+    url: http://www.gutenberg.org/2009/agents/6120
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Arthur_Young
+    - http://fr.wikipedia.org/wiki/Arthur_Young
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15556'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcsh 'Agriculture -- France -- History -- 18th century'
+title: Voyages en France pendant les années 1787, 1788, 1789
+url: http://www.gutenberg.org/ebooks/15556
